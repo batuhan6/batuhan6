@@ -44,7 +44,7 @@ Meta Back-End Developer - APIs
 
 ## Skills
 
-SQL|Data Modelling|Microsoft Excel|Power BI|Tableau|Python|Django Framework|API|Project Management 
+SQL|Data Modelling|Microsoft Excel|Power BI|Tableau|Python|Django Framework|APIs|Project Management 
 
 
 
