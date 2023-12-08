@@ -4,11 +4,11 @@
 
 As a passionate enthusiast of Data Analysis, I am deeply dedicated to harnessing data-driven insights to make informed decisions. I am focused on leveraging my technical skills and practical experience to Excel in the field of Data Science.
 
-## Professional Summary
+## :star2: Professional Summary
 
 As a versatile professional with a background in engineering, project management, and data analysis, my dedication to customer satisfaction, alongside my technical skills, positions me ideally for the challenges and opportunities in the realm of Data Science.
 
-## Professional Journey
+## :office_worker: Professional Journey
 
 ### Business Analyst at GRASS-MERKUR (Aug 2021 - Nov 2023)
 
@@ -33,7 +33,7 @@ As a versatile professional with a background in engineering, project management
 * Active participation on site and monitoring of the workflow, implementation of optimizations in the workflow and production. Making necessary changes on the Kanban board.
 
 
-## Certifications
+## :scroll: Certifications
 
 Meta Database Engineer by Meta
 
@@ -42,7 +42,7 @@ Google Advanced Data Analytics
 Meta Back-End Developer - APIs
 
 
-## Skills
+## :rocket: Skills
 
 SQL|Data Modelling|Microsoft Excel|Power BI|Tableau|Python|Django Framework|APIs|Project Management 
 
