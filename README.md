@@ -8,7 +8,7 @@ As a passionate enthusiast of Data Analysis, I am deeply dedicated to harnessing
 
 As a versatile professional with a background in engineering, project management, and data analysis, my dedication to customer satisfaction, alongside my technical skills, positions me ideally for the challenges and opportunities in the realm of Data Science.
 
-## :office_worker: Professional Journey
+## :briefcase: Professional Journey
 
 ### Business Analyst at GRASS-MERKUR (Aug 2021 - Nov 2023)
 
