@@ -39,6 +39,8 @@ Meta Database Engineer by Meta
 
 Google Advanced Data Analytics
 
+Meta Back-End Developer - APIs
+
 
 ## Skills
 
