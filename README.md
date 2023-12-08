@@ -1,9 +1,14 @@
-### Hi there, I'm Batuhan 👋
+# Başlık
 
-## About Me
+## Hi there, I'm Batuhan! 👋
+
+### About Me
 
 As a passionate enthusiast of Data Analysis, I am deeply dedicated to harnessing data-driven insights to make informed decisions. I am focused on leveraging my technical skills and practical experience to Excel in the field of Data Science.
 
+### Professional Summary
+
+## Professional Journey
 
 
 
