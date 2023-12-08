@@ -18,6 +18,36 @@ As a versatile professional with a background in engineering, project management
 
 * Development of tools for administration, evaluation and billing of GM's cloud platform based on OpenStack (Python, Django, OpenStack)
 
+* Ensured timely and budgeted project completion by creating project timelines and regularly monitoring project progress. (Jira)
+
+* Created insightful reports for internal teams and managers for logistics operations and cloud services, providing valuable insights that contributed to informed decision-making and optimized business strategies using data visualization and reporting tools. (PowerBI, Python libraries(Pandas, Matplotlib))
+
+### Industrial Engineer at Preveze Denizcilik (Oct 2017 - Jul 2018)
+
+*Shipbuilding plan created(Microsof Project)
+
+* Performed a comprehensive capacity planning and coordinated and managed the construction of a new production line.
+
+* Responsible for preparing budget planning for the vessel and production line.
+
+* Active participation on site and monitoring of the workflow, implementation of optimizations in the workflow and production. Making necessary changes on the Kanban board.
+
+
+## Certifications
+
+Meta Database Engineer by Meta
+
+Google Advanced Data Analytics
+
+
+## Skills
+
+SQL|Data Modelling|Microsoft Excel|Power BI|Tableau|Python|Django Framework|API|Project Management 
+
+
+
+
+
 
 
 
