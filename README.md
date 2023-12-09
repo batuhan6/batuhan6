@@ -1,4 +1,9 @@
-# Hi there, I'm Batuhan! 👋   	:man_technologist:    
+# Hi there, I'm Batuhan! 👋   	
+
+:man_technologist:
+
+ :man_office_worker:
+
 
 ## About Me
 
