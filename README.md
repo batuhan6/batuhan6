@@ -1,4 +1,4 @@
-# Hi there, I'm Batuhan! 👋 :man_in_tuxedo: :man_judge:
+# Hi there, I'm Batuhan! 👋 :man_in_tuxedo: :man_teacher:
 
 ## About Me
 
