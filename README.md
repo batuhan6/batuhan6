@@ -1,4 +1,4 @@
-# Hi there, I'm Batuhan! 👋 :man_in_tuxedo: :man_teacher:
+# Hi there, I'm Batuhan! 👋 	:man_technologist:   :man_office_worker:
 
 ## About Me
 
