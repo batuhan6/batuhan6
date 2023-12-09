@@ -3,7 +3,7 @@
 
 ## About Me
 
-As a passionate enthusiast of Data Analysis, I am deeply dedicated to harnessing data-driven insights to make informed decisions. I am focused on leveraging my technical skills and practical experience to Excel in the field of Data Science.
+As a passionate enthusiast of Data Science, I am deeply dedicated to harnessing data-driven insights to make informed decisions. I am focused on leveraging my technical skills and practical experience to Excel in the field of Data Science.
 
 ## :star2: Professional Summary
 
