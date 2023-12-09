@@ -1,4 +1,4 @@
-# Hi there, I'm Batuhan! 👋 :person_in_tuxedo:
+# Hi there, I'm Batuhan! 👋 :man_in_tuxedo:
 
 ## About Me
 
