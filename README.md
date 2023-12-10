@@ -11,7 +11,7 @@ As a versatile professional with a background in engineering, project management
 
 ## :briefcase: Professional Journey
 
-### Business Analyst at GRASS-MERKUR (Aug 2021 - Nov 2023)
+### Software Engineer at GRASS-MERKUR (Aug 2021 - Nov 2023)
 
 * Development of an evaluation software for monthly and weekly reports of employees (Python, Django, PostgreSQL)
 
