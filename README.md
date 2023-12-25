@@ -25,7 +25,7 @@ As a versatile professional with a background in engineering, project management
 
 ### Industrial Engineer at Preveze Denizcilik (Oct 2017 - Jul 2018)
 
-* Shipbuilding plan created(Microsof Project)
+* The ship building plan was created(Microsof Project)
 
 * Performed a comprehensive capacity planning and coordinated and managed the construction of a new production line.
 
