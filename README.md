@@ -40,6 +40,8 @@ Meta Database Engineer by Meta
 
 Google Advanced Data Analytics
 
+Stanford|Online Machine Learning
+
 Meta Back-End Developer - APIs
 
 
